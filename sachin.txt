@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-transfer sachin's chocolates to prachi :P
-=======
-asdfadfadf
-
->>>>>>> dfd9a63534d77d501121ce69e06719e37b3a7341
-
-
-add new files
+abcd
